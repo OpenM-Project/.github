@@ -1,5 +1,5 @@
 <h1 align="center">OpenM Project</h1>
-<h3 align="center">A group of people from the world</h3>
+<h3 align="center">A group of people from the world [Discontinued and Merged with MCOMMUNITY, but alive at [OpenMicrosoft Project](https://github.com/OpenMicrosoft-Project)</h3>
 
 <h3 align="left">Connect with us:</h3>
 <p align="left">
