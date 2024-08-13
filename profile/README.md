@@ -15,4 +15,4 @@
 - [OpenM Home Page](https://openm.tech)
 - [MCDOC](https://mcdoc.openm.tech)
 - [MCBEDOC (Archived)](https://mcbedoc.openm.tech)
-- [DroidMC](https://droidmc.openm.tech)
+- [MCBEDOC Github Organization (contains Important Archives)](https://github.com/MCBEDOC/)
