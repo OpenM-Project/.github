@@ -12,8 +12,8 @@
 </p>
 
 ### Our projects: 
-- [OpenM Home Page](https://openm.tech)
-- [MCDOC](https://mcdoc.openm.tech)
+- [OpenM Home Page](https://openm.mcdoc.site)
+- [MCDOC](https://mcdoc.site)
 - [reMCenters](https://github.com/OpenM-Project/reMCenters)
 - [MCBEDOC (Archived)](https://github.com/OpenM-Project/mcbedoc.github.io)
 - [MCBEDOC Github Organization (contains Important Archives)](https://github.com/MCBEDOC/)
